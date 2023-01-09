@@ -1,5 +1,26 @@
 # bioinformatics-as-a-service
 
+This project collects bioinformatics data from Apple Watches and performs machine learning on the data. The results are visualized and provided to users through a secured web GUI.
+
+## Requirements
+
+Go
+Python
+MySQL
+SQLite
+Usage
+
+Clone the repository: 
+```
+git clone https://github.com/K-MkrOps/bioinformatics-as-a-service
+```
+### Install the requirements ###
+
+### Run the program: ###
+```
+go run main.go
+```
+
 ```
 bioinformatics-as-a-service
 ├── main
